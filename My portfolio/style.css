@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+
+}
+#apps{
+    background-color: lavender;
+}
+#games{
+    background-color:#ffe3f6;
+}
+#games img{
+    height:500px;
+    width:500px;
+}
+#chatbot{
+    background-color:#EAF5F5;
+}
